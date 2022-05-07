@@ -1,1 +1,1 @@
-web: gunicorn merchandisers.wsgi --log-file -
+web: gunicorn Back-end/merchandisers.wsgi --log-file -
