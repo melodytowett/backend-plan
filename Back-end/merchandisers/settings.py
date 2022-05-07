@@ -133,14 +133,6 @@ WSGI_APPLICATION = 'merchandisers.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'routeplan',
-        'USER': 'moringa',
-        'PASSWORD':'1234',
-    }
-}
 
 
 # Password validation
